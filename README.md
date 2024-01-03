@@ -3,7 +3,7 @@ Terrafom code to deploy AKS cluster
 
 Deploys AKS cluster with Azure AD integration and RBAC support
 
-Creates ACR and assign permissions fro AKS cluster
+Creates ACR and assign permissions for AKS cluster
 
 Enables Application Gateway Ingress controller
 
